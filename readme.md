@@ -29,6 +29,7 @@
 |박신영|데이터 수집&전처리&병합 / EDA / 군집분석(그룹 3) / 모델링(그룹 3) / 보고서 작성&정리|
 
 - **개발 프로세스**
+![image](https://github.com/chasubeen/Kwater/assets/98953721/b28a73c9-57a3-4497-9310-5b95a4b0f001)
 
 ---
 ## **4. 과제 목표**
@@ -165,7 +166,7 @@
 - 예측된 (현재) 저수량 + 수질 등급 + 활용 능력을 복합적으로 평가한 후 21개의 다목적 댐을 다시 5개의 그룹으로 분류
   - 각 그룹의 현 상황을 분석하고, 각각에 맞는 솔루션 제시  
     
-※ 자세한 내용은 [결과보고서](https://github.com/chasubeen/Kwater/blob/main/2023%EB%85%84%20K-water%20%EB%8C%80%EA%B5%AD%EB%AF%BC%20%EB%AC%BC%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%88%98%ED%96%89%20%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf) 참고 바람
+※ 자세한 내용은 [결과보고서](https://github.com/chasubeen/Kwater/blob/main/2023%EB%85%84%20K-water%20%EB%8C%80%EA%B5%AD%EB%AF%BC%20%EB%AC%BC%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EC%88%98%ED%96%89%20%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)를 참고 바람
 
 ## **11. 기대 효과**
 - 그룹 별로 처한 상황은 다르지만, 모델링 결과를 바탕으로 추후 댐의 관리 방향을 설정하는 데 중요한 지침을 얻을 수 있음
