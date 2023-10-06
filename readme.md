@@ -29,7 +29,7 @@
 |박신영|데이터 수집&전처리&병합 / EDA / 군집분석(그룹 3) / 모델링(그룹 3) / 보고서 작성&정리|
 
 - **개발 프로세스**
-![image](https://github.com/chasubeen/Kwater/assets/98953721/b28a73c9-57a3-4497-9310-5b95a4b0f001)
+<img src = "https://github.com/chasubeen/Kwater/assets/98953721/de4fcfc1-a115-4886-816b-eb25105351b2" width = 850 height = 500>
 
 ---
 ## **4. 과제 목표**
